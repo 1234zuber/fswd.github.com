@@ -1,0 +1,94 @@
+.navigation ul{
+    font-size: 20px;
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 430px; 
+    text-decoration: underline;
+    padding-top: 30px;
+}
+
+.tourism{
+    font-size: 15px;
+    font-style: italic;
+    padding-top: 70px;
+    padding-left: 30px;
+}
+
+.manali{
+    text-decoration: underline;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.col{
+    /* border: 1px solid red; */
+    height: 100px;
+    width: 1295px;
+    padding-left: 30px;
+}
+.col p{
+    font-size: 18px;
+}
+
+.images{
+    padding-left: 30px;
+    text-decoration: underline;
+}
+
+.row{
+    /* border: 1px solid red; */
+    height: 400px;
+    width: 1230px;
+    margin-left: 30px;
+    display: flex;
+    border-radius: 10px;
+} 
+
+
+.manali-col{
+    /* border: 1px solid green; */
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.manali-col img{
+    height: 400px;
+    width: 300px;
+}
+
+.history{
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
+.aboutus-box{
+    margin-left: 30px;
+}
+
+.about-col{
+    /* border: 1px solid green; */
+    width: 1200px;
+    height: 300px;
+    margin-left: 50px;
+}
+
+.contactUs-box{
+    margin-left: 40px;
+}
+
+.climate{
+    margin-left: 30px;
+    padding-top: 40px;
+}
+
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-left: 20px;
+    font-size: 20px;
+    justify-content: center;
+    padding: 5px 5px;
+    padding-right: 10px;
+}
